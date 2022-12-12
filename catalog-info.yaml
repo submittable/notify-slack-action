@@ -9,5 +9,5 @@ metadata:
 spec:
   type: service
   owner: group:submittable/infrastructure
-  lifecycle: production
+  lifecycle: experimental
   
