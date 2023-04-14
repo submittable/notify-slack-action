@@ -4,7 +4,7 @@ kind: Component
 metadata:
   name: notify-slack-action
   description: ""
-  annotations: 
+  annotations:
     github.com/project-slug: submittable/notify-slack-action
     pagerduty.com/integration-key: 0cb1d91abacd4101c030087b3b27df2e
     pagerduty.com/service-id: P6NGV0P
